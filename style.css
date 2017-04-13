@@ -1,0 +1,17 @@
+#horizontal {
+  width: 50%;
+	height: 100px;
+	background-color: #0000ff;
+	margin: 0 auto;
+}
+
+#hello {
+	color: white;
+	/*padding-left: 50px;*/
+	margin-top: 100px;
+	border-style: solid;
+	border-radius: 2px;
+	border-color: red;
+	text-align: center;
+	line-height: 50%;
+}
